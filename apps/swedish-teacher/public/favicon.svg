@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Swedish flag">
+  <rect width="64" height="64" rx="12" fill="#006aa7"/>
+  <rect x="18" width="9" height="64" fill="#fecc02"/>
+  <rect y="28" width="64" height="9" fill="#fecc02"/>
+</svg>
